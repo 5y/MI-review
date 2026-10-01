@@ -1,0 +1,47 @@
+study_id,title,doi,url,citation_key,paper_reference_number,scope_exception
+P0001,“Reasoning before Responding”: Towards Legal Long-form Question Answering with Interpretability,10.1145/3627673.3680082,https://doi.org/10.1145/3627673.3680082,ujwal_reasoning_2024,44,No
+P0002,A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity,,https://openreview.net/forum?id=dBqHGZPGZI,lee_mechanistic_2024,5,No
+P0003,Training Reliable Activation Probes With a Handful of Positive Examples,,https://openreview.net/pdf?id=punokGGd4V,tyagi_training_2025,6,No
+P0004,An Interpretable SERS-AI Platform for Rapid and Quantitative Diagnosis of Polymicrobial UTIs: Powered by Positively Charged Plasmonic Nanoparticles and Attention-Based Deep Learning,10.1002/advs.202513502,https://doi.org/10.1002/advs.202513502,shen_interpretable_2025,55,No
+P0006,Are LLMs Rational Investors? A Study on the Financial Bias in LLMs,,https://aclanthology.org/2025.findings-acl.1239/,zhou_are_2025,7,No
+P0007,Attention Heads of Large Language Models,10.1016/j.patter.2025.101176,https://doi.org/10.1016/j.patter.2025.101176,zheng_attention_2025,64,No
+P0008,Benchmarking and Understanding Compositional Relational Reasoning of LLMs,,https://ojs.aaai.org/index.php/AAAI/article/download/34170/36325,ni2025benchmarking,45,No
+P0009,Beyond Accuracy: Introducing a Symbolic-Mechanistic Approach to Interpretable Evaluation,,https://ojs.aaai.org/index.php/AAAI-SS/article/download/42593/50153,habibi_beyond_2026,40,No
+P0010,"Beyond I’m Sorry, I Can’t: Dissecting Large-Language-Model Refusal",,https://ojs.aaai.org/index.php/AAAI/article/view/41119/45080,prakash_beyond_2026,36,No
+P0012,Bridging the Language Gap: Uncovering and Aligning Shared Circuits for Multi-Hop Reasoning in Multilingual LLMs,,https://ojs.aaai.org/index.php/AAAI/article/view/40592/44553,sun2026bridging,51,No
+P0013,CogSteer: Cognition-Inspired Selective Layer Intervention for Efficiently Steering Large Language Models,,https://aclanthology.org/2025.findings-acl.1308/,wang2025cogsteer,49,No
+P0014,ContextBench: Modifying Contexts for Targeted Latent Activation and Behaviour Elicitation,,https://openreview.net/pdf?id=iALSnbPLCu,graham_contextbench_2026,62,No
+P0015,Cross-Architecture Model Diffing With Crosscoders: Unsupervised Discovery of Differences Between LLMs,,https://openreview.net/pdf?id=ZB84SvrZB8,jiralerspong_cross-architecture_2026,59,No
+P0016,Diagrammatization and Abduction to Improve AI Interpretability With Domain-Aligned Explanations for Medical Diagnosis,10.1145/3706598.3714058,https://doi.org/10.1145/3706598.3714058,lim_diagrammatization_2025,8,No
+P0017,Discovering Decoupled Functional Modules in Large Language Models,10.1609/aaai.v40i41.40749,https://ojs.aaai.org/index.php/AAAI/article/view/40749,yu_discovering_2026,47,No
+P0018,Disentangling Neuron Representations with Concept Vectors,10.1109/cvprw59228.2023.00390,https://doi.org/10.1109/cvprw59228.2023.00390,omahony_disentangling_2023,28,No
+P0019,Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability,10.1109/cvpr52734.2025.00767,https://doi.org/10.1109/cvpr52734.2025.00767,shi2025dissecting,56,No
+P0020,Ensuring Medical AI Safety: Interpretability-Driven Detection and Mitigation of Spurious Model Behavior and Associated Data,10.1007/s10994-025-06834-w,https://doi.org/10.1007/s10994-025-06834-w,pahde_ensuring_2025,9,No
+P0021,Fine-Grained Interpretation of Political Opinions in Large Language Models,10.1609/aaai.v40i45.41199,https://ojs.aaai.org/index.php/AAAI/article/view/41199,hu_political_2026,42,No
+P0022,"From Mechanistic Interpretability to Mechanistic Biology: Training, Evaluating, and Interpreting Sparse Autoencoders on Protein Language Models",10.1101/2025.02.06.636901,https://openreview.net/forum?id=zdOGBRQEbz,adams_mechanistic_2025,4,No
+P0025,Human Guided Exploitation of Interpretable Attention Patterns in Summarization and Topic Segmentation,,https://aclanthology.org/2022.emnlp-main.694/,li_human_2022,29,No
+P0027,Interpretability of Artificial Neural Network Models in Artificial Intelligence versus Neuroscience,10.1038/s42256-022-00592-3,https://doi.org/10.1038/s42256-022-00592-3,kar_interpretability_2022-1,46,No
+P0028,Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis,,https://aclanthology.org/2024.emnlp-main.193.pdf,yu_interpreting_2024,37,No
+P0029,Intrinsic User-Centric Interpretability through Global Mixture of Experts,,https://iclr.cc/virtual/2025/poster/27864,swamy_intrinsic_2025,35,No
+P0030,M-AIDE: Mechanistic Agentic Interpretability for Decoding Empathy in Language Models,10.1109/ivcnz67716.2025.11281845,https://doi.org/10.1109/ivcnz67716.2025.11281845,mirnateghi_m-aide_2025,43,No
+P0031,Mechanistic Interpretability of Emotion Inference in Large Language Models,,https://aclanthology.org/2025.findings-acl.679/,tak_mechanistic_2025,32,No
+P0032,Mechanistic Understanding and Validation of Large AI Models with SemanticLens,10.1038/s42256-025-01084-w,https://doi.org/10.1038/s42256-025-01084-w,dreyer_mechanistic_2025,30,No
+P0033,Model Learning with Personalized Interpretability Estimation (ML-PIE),10.1145/3449726.3463166,https://doi.org/10.1145/3449726.3463166,virgolin_model_2021,25,Yes
+P0034,Neurons to Words: A Novel Method for Automated Neural Network Interpretability and Alignment,,https://ojs.aaai.org/index.php/AAAI/article/view/34972,puglisi2025neurons,27,No
+P0038,PRAGWORLD: A Benchmark Evaluating LLMs’ Local World Model Under Minimal Linguistic Alterations and Conversational Dynamics,10.1609/aaai.v40i39.40618,https://ojs.aaai.org/index.php/AAAI/article/view/40618,vashistha2026pragworld,60,No
+P0039,Polarity-Aware Probing for Quantifying Latent Alignment in Language Models,10.1609/aaai.v40i44.41126,https://ojs.aaai.org/index.php/AAAI/article/view/41126,sadiekh2026polarity,57,No
+P0040,ProtSAE: Disentangling and Interpreting Protein Language Models via Semantically-Guided Sparse Autoencoders,,https://ojs.aaai.org/index.php/AAAI/article/view/37044/41006,liu_protsae_2026,52,No
+P0041,Representation Learning for Improved Interpretability and Classification Accuracy of Clinical Factors from EEG,,https://openreview.net/pdf/2932815e2ab354b7f926e4803d4ba6847916d44d.pdf,honke_representation_2021,54,No
+P0042,Route Sparse Autoencoder to Interpret Large Language Models,,https://aclanthology.org/2025.emnlp-main.346.pdf,shi2025route,3,No
+P0043,SCoUT: A Framework for Structured Stereotype Analysis in Language Models,10.1609/aaai.v40i32.39905,https://ojs.aaai.org/index.php/AAAI/article/view/39905,wu_scout_2026,41,No
+P0044,SHARP: Unlocking Interactive Hallucination via Stance Transfer in Role-Playing LLMs,,https://aclanthology.org/2025.findings-acl.47/,kong_sharp_2025,58,No
+P0045,Securing Local LLMs for Academic Research: A Human-System Integration Analysis and Evolution of TAUCHI-GPT,10.1007/s42454-025-00085-9,https://doi.org/10.1007/s42454-025-00085-9,farooq_securing_2025,26,Yes
+P0046,Seeing Is Believing: Brain-Inspired Modular Training for Mechanistic Interpretability,10.3390/e26010041,https://doi.org/10.3390/e26010041,liu_seeing_2024,31,No
+P0047,The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction,,https://aclanthology.org/2025.findings-acl.1111/,hong_reasoning-memorization_2025,50,No
+P0048,The Curious Case of Analogies: Investigating Analogical Reasoning in Large Language Models,10.1609/aaai.v40i37.40414,https://ojs.aaai.org/index.php/AAAI/article/view/40414,lee_analogies_2026,33,No
+P0049,The Other Mind: How Language Models Exhibit Human Temporal Cognition,10.1609/aaai.v40i42.40871,https://ojs.aaai.org/index.php/AAAI/article/view/40871,li_temporal_2026,48,No
+P0050,Towards Quantifying Commonsense Reasoning with Mechanistic Insights,,https://aclanthology.org/2025.naacl-long.487.pdf,joshi2025towards,39,No
+P0052,Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation,10.1609/aaai.v40i44.41077,https://ojs.aaai.org/index.php/AAAI/article/view/41077,hahm_unintended_2026,11,No
+P0053,Unveiling Language Competence Neurons: A Psycholinguistic Approach to Model Interpretability,,https://aclanthology.org/2025.coling-main.677.pdf,duan_unveiling_2025,38,No
+P0054,What Needs to Go Right for an Induction Head? A Mechanistic Study of In-Context Learning Circuits and Their Formation,,https://openreview.net/forum?id=O8rrXl71D5,singh_what_2024,34,No
+P0055,Why Learning Requires Feeling,10.1609/aaaiss.v8i1.42547,https://ojs.aaai.org/index.php/AAAI-SS/article/view/42547,berg_learning_2026,53,No
